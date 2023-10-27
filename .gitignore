@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+# Ignore node_modules directory
+node_modules/
